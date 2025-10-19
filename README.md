@@ -1,4 +1,4 @@
-# Scholigence — GitHub Profile (Full Scholigence-Style README)
+# Scholigence — GitHub Profile
 
 > Complete single-file GitHub profile README with embedded project statistics, visual graphs, collaboration info, and dynamic metrics — optimized for AI/ML engineers and Scholigence-style portfolios.
 
