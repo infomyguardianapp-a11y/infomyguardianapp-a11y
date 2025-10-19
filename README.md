@@ -86,9 +86,9 @@ NLTK-powered chatbot for academic guidance — helps students with revaluation, 
 
 | Collaborator                           | Projects | PRs |
 | -------------------------------------  | -------- | --- |
-| [Jayesh](https://github.com/kakkarot23)| 4        | 10  |
-| [Govind](https://github.com/friend2)   | 3        | 7   |
-| [ShaTech](https://github.com/friend3)  | 2        | 5   |
+| [Jayesh](https://github.com/kakkarot23)| 0        | 0  |
+| [Govind](https://github.com/friend2)   | 0        | 0   |
+| [ShaTech](https://github.com/friend3)  | 0        | 0   |
 
 ![collaboration graph](https://github-contributor-stats.vercel.app/api?username=kakkarot23\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
@@ -118,11 +118,11 @@ NLTK-powered chatbot for academic guidance — helps students with revaluation, 
 
 | Metric         | Value  |
 | -------------- | ------ |
-| Total Projects | 30+    |
-| Total Commits  | 4,500+ |
-| Languages Used | 12+    |
-| AI/ML Projects | 10+    |
-| Collaborators  | 8+     |
+| Total Projects |    1   |
+| Total Commits  |        |
+| Languages Used |        |
+| AI/ML Projects |        |
+| Collaborators  |        |
 
 > Visual Dashboard (generated via GitHub Actions): ![dashboard](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakkarot23\&theme=github_dark)
 
