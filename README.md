@@ -84,11 +84,11 @@ NLTK-powered chatbot for academic guidance — helps students with revaluation, 
 
 ## 🧑‍🤝‍🧑 Top Collaborators
 
-| Collaborator                          | Projects | PRs |
-| ------------------------------------- | -------- | --- |
-| [friend1](https://github.com/friend1) | 4        | 10  |
-| [friend2](https://github.com/friend2) | 3        | 7   |
-| [friend3](https://github.com/friend3) | 2        | 5   |
+| Collaborator                           | Projects | PRs |
+| -------------------------------------  | -------- | --- |
+| [Jayesh](https://github.com/kakkarot23)| 4        | 10  |
+| [Govind](https://github.com/friend2)   | 3        | 7   |
+| [ShaTech](https://github.com/friend3)  | 2        | 5   |
 
 ![collaboration graph](https://github-contributor-stats.vercel.app/api?username=kakkarot23\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
